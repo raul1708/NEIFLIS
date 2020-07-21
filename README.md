@@ -1,4 +1,8 @@
 # NEIFLIS
-Pagina web desarrollada utilizando HTML, CSS y Bootstrap.
+Pagina web responsiva desarrollada utilizando:
+* HTML
+* CSS
+* Bootstrap
 
 https://raulmoreno17.github.io/NEIFLIS/
+
